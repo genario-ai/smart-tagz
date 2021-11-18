@@ -1,5 +1,5 @@
 {
-  "name": "smart-tagz",
+  "name": "@genario/smart-tagz",
   "version": "0.3.1",
   "license": "MIT",
   "description": "A Smart input tags component for Vue 3",
