@@ -1,8 +1,8 @@
 {
   "name": "@genario/smart-tagz",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "license": "MIT",
-  "description": "A Smart input tags component for Vue 3",
+  "description": "A Smart input tags component for Vue 3 (fork)",
   "author": {
     "name": "Prabhu Murthy",
     "url": "https://www.prabhumurthy.com"
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prabhuignoto/smart-tagz"
+    "url": "https://github.com/genario-ai/smart-tagz"
   },
   "husky": {
     "hooks": {
